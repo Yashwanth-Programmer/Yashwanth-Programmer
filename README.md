@@ -8,21 +8,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/y-yashwanth/"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yanamadalayash@gmail.com"><img src="https://img.shields.io/badge/Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-<a href="https://yashwanth-site.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/Yashwanth-Programmer?label=Followers&style=for-the-badge&color=6366F1&labelColor=1a1a2e" />
-<img src="https://img.shields.io/github/stars/Yashwanth-Programmer?label=Stars&style=for-the-badge&color=2DD4BF&labelColor=1a1a2e" />
-<img src="https://komarev.com/ghpvc/?username=Yashwanth-Programmer&label=Profile+Views&style=for-the-badge&color=A78BFA&labelColor=1a1a2e" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🚀 About Me
 

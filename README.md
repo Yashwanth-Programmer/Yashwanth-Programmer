@@ -80,63 +80,72 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🧩 QuizForge</h3>
-<p align="center">Real-time quiz platform with auth &amp; analytics</p>
-<p align="center">
+<img src="https://placehold.co/600x280/6366F1/ffffff?text=QuizForge&font=montserrat" width="100%" style="border-radius: 12px;"/>
+
+<h3>🧩 QuizForge</h3>
+<p>Real-time quiz platform with auth &amp; analytics</p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-<p align="center"><b>98% quiz response accuracy</b></p>
-<p align="center"><a href="https://yashwanth-site.vercel.app/static/media/Quiz.fe6b46acecd0da7a4785.pdf">📄 View Details</a></p>
+<br/><br/>
+<b>98% quiz response accuracy</b>
+<br/>
+<a href="https://yashwanth-site.vercel.app/static/media/Quiz.fe6b46acecd0da7a4785.pdf">📄 View Details</a>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">📉 ChurnScope</h3>
-<p align="center">ML-powered customer churn prediction</p>
-<p align="center">
+<img src="https://placehold.co/600x280/2DD4BF/1a1a2e?text=ChurnScope&font=montserrat" width="100%" style="border-radius: 12px;"/>
+
+<h3>📉 ChurnScope</h3>
+<p>ML-powered customer churn prediction</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-</p>
-<p align="center"><b>Zero data breaches</b></p>
-<p align="center"><a href="https://yashwanth-site.vercel.app/static/media/churnprediction.b5f4ebf8e22f69ddda00.pdf">📄 View Details</a></p>
+<br/><br/>
+<b>Zero data breaches</b>
+<br/>
+<a href="https://yashwanth-site.vercel.app/static/media/churnprediction.b5f4ebf8e22f69ddda00.pdf">📄 View Details</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🚦 TrafficIQ</h3>
-<p align="center">AI traffic system with YOLO detection</p>
-<p align="center">
+<img src="https://placehold.co/600x280/A78BFA/1a1a2e?text=TrafficIQ&font=montserrat" width="100%" style="border-radius: 12px;"/>
+
+<h3>🚦 TrafficIQ</h3>
+<p>AI traffic system with YOLO detection</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-</p>
-<p align="center"><b>Real-time vehicle &amp; plate detection</b></p>
+<br/><br/>
+<b>Real-time vehicle &amp; plate detection</b>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🛋️ Virto Shop</h3>
-<p align="center">AR-powered furniture e-commerce</p>
-<p align="center">
+<img src="https://placehold.co/600x280/6366F1/ffffff?text=Virto+Shop&font=montserrat" width="100%" style="border-radius: 12px;"/>
+
+<h3>🛋️ Virto Shop</h3>
+<p>AR-powered furniture e-commerce</p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-</p>
-<p align="center"><b>Real-time 3D model preview</b></p>
-<p align="center"><a href="https://yashwanth-site.vercel.app/static/media/virto.a28e5fe2e7b0085594f7.pdf">📄 View Details</a></p>
+<br/><br/>
+<b>Real-time 3D model preview</b>
+<br/>
+<a href="https://yashwanth-site.vercel.app/static/media/virto.a28e5fe2e7b0085594f7.pdf">📄 View Details</a>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <a href="https://github.com/YashwanthProgrammer/GOVTDATASETANALAYSIS">
-<img src="https://img.shields.io/badge/📊_Telecom_Trend_Analysis_(India_2008--2022)-Python_%2B_Tableau-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📊_Telecom_Trend_Analysis_(India_2008--2022)-Python_%2B_Tableau-2DD4BF?style=for-the-badge&labelColor=1a1a2e" />
 </a>
 
 </div>
@@ -147,16 +156,24 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Programmer&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366F1&icon_color=2DD4BF&bg_color=1a1a2e" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-Programmer&theme=tokyonight&hide_border=true&background=1a1a2e&ring=6366F1&fire=2DD4BF&currStreakLabel=2DD4BF" width="48%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-Programmer&theme=tokyo-night&hide_border=true&area=true" width="97%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Programmer&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=2DD4BF&text_color=c9d1d9&bg_color=1a1a2e" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-Programmer&theme=tokyonight&hide_border=true&background=1a1a2e&ring=6366F1&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=c9d1d9&sideNums=c9d1d9" height="165" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth-Programmer&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-Programmer&theme=github-compact&hide_border=true&bg_color=1a1a2e&color=A78BFA&line=6366F1&point=2DD4BF&area=true&area_color=2DD4BF" width="97%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-Programmer&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=c9d1d9" height="165" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Yashwanth-Programmer&theme=tokyonight&no-frame=true&no-bg=false&column=4&margin-w=10&margin-h=10&row=2" width="70%"/>
 
 </div>
+
+> 💡 Stats update automatically as you commit, star repos, and build streaks — the more consistently you push, the richer this section gets.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 

@@ -5,6 +5,8 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Python+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%9A%A1;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80;B.Tech+CSE+%40+Malla+Reddy+University+%F0%9F%8E%93" alt="Typing SVG" />
+
+###
 <table>
 <tr>
 <td width="60%" valign="top">

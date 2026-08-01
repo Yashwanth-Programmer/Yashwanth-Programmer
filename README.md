@@ -1,16 +1,6 @@
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png"> <img alt="Yashwanth Y banner" src="art/header-light.png" width="100%"> </picture>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png"> <img alt="" src="" width="100%"> </picture> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:2DD4BF&height=180&section=header&text=Hey%20There,%20I'm%20Yashwanth%20  &fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Python+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%9A%A1;Turning+Ideas+Into+Shipped+Products+%F0%9F%9A%80;B.Tech+CSE+%40+Malla+Reddy+University+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=560&lines=Full+Stack+Web+Developer;Python+%E2%80%A2+React+%E2%80%A2+Node.js;Building+AI%2FML-powered+Applications;B.Tech+CSE+%40+Malla+Reddy+University" alt="Typing SVG" /> <br/> <a href="https://www.linkedin.com/in/y-yashwanth/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="mailto:yanamadalayash@gmail.com"> <img src="https://img.shields.io/badge/Email-2DD4BF?style=flat-square&logo=gmail&logoColor=white" /> </a> <a href="https://yashwanth-site.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=Yashwanth-Programmer&style=flat-square&color=2DD4BF&label=Profile+Views" /> </div> <br/>
-**Full Stack Web Developer**
-
-Hyderabad, India · [LinkedIn](https://www.linkedin.com/in/y-yashwanth/) · [Portfolio](https://yashwanth-site.vercel.app/) · yanamadalayash@gmail.com
-
-</div>
-
-<br/>
-
 ## About
 
 I'm a Computer Science undergraduate at Malla Reddy University, focused on full-stack web development and applied machine learning. I enjoy building complete, working systems — from backend logic and databases to functional, well-designed interfaces — and I'm currently deepening my knowledge of system design and advanced Python.

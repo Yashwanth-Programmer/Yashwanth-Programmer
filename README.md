@@ -5,112 +5,152 @@
   <img alt="Yashwanth Y banner" src="art/header-light.png" width="100%">
 </picture>
 
-<h1>Hey there, I'm Yashwanth 👋</h1>
+<br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;Python+%7C+React+%7C+Node.js;Machine+Learning+%2B+NLP+Enthusiast;Always+Building%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=1200&color=2DD4BF&center=true&vCenter=true&width=560&lines=Full+Stack+Web+Developer;Python+%E2%80%A2+React+%E2%80%A2+Node.js;Building+AI%2FML-powered+Applications;B.Tech+CSE+%40+Malla+Reddy+University" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/Yashwanth-Programmer?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" />
-<img src="https://img.shields.io/github/stars/Yashwanth-Programmer?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" />
-<img src="https://komarev.com/ghpvc/?username=Yashwanth-Programmer&label=Profile+Views&style=for-the-badge&color=FF69B4&labelColor=1a1a1a" />
+<a href="https://www.linkedin.com/in/y-yashwanth/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yanamadalayash@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2DD4BF?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://yashwanth-site.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Yashwanth-Programmer&style=flat-square&color=2DD4BF&label=Profile+Views" />
 
 </div>
 
 <br/>
 
-## 🧑‍💻 About Me
+## 👋 About Me
+
+I'm a Computer Science undergraduate at **Malla Reddy University**, focused on full-stack development and applied machine learning. I like building things end-to-end — from backend logic and databases to polished, functional UIs — and I'm currently deepening my skills in **system design** and **advanced Python**.
+
+- 🔭 Currently building: DSA/system-design pattern notes and full-stack side projects
+- 🌱 Learning: System Design fundamentals, advanced Python (async, design patterns)
+- 💬 Ask me about: React, Node.js, Flask, MongoDB/MySQL, ML basics (Scikit-learn)
+- 🏆 Led a 5-person team to build a medical chatbot in a 24-hour national hackathon
+- 📫 Reach me: **yanamadalayash@gmail.com**
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+<br/><br/>
+
+**Web & Frameworks**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+<br/><br/>
+
+**Data & ML**
+<br/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+
+<br/><br/>
+
+**Databases & Tools**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
-- 🎓 B.Tech in Computer Science, Malla Reddy University, Hyderabad
-- 💻 Full Stack Developer — comfortable across **React, Node.js, Flask, Express.js**
-- 🤖 Exploring **Machine Learning & NLP** with Scikit-learn
-- 🗄️ Work with **MySQL & MongoDB**, RESTful APIs, and Postman
-- 🧠 Strong foundation in **DSA & Competitive Programming**
-- 🏆 Led a team to build a medical chatbot in a 24-hour national hackathon
-- 🌱 Currently sharpening system design fundamentals and advanced Python
-- 📫 Reach me at **yanamadalayash@gmail.com**
+### 🧩 [QuizForge](https://yashwanth-site.vercel.app/static/media/Quiz.fe6b46acecd0da7a4785.pdf)
+Full-stack quiz platform with real-time scoring, user auth, and an analytics dashboard.
+**Stack:** React · Node.js · MongoDB
+**Result:** 98% quiz response accuracy
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="https://avatars.githubusercontent.com/u/197666002?v=4" width="200" style="border-radius: 50%;" />
+### 📉 [ChurnScope](https://yashwanth-site.vercel.app/static/media/churnprediction.b5f4ebf8e22f69ddda00.pdf)
+ML-based customer churn prediction from behavioral and demographic data, with secure auth.
+**Stack:** Python · Scikit-learn
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 TrafficIQ
+AI traffic management system using YOLO for vehicle detection, plate recognition, and emergency-vehicle signal priority.
+**Stack:** Python · OpenCV · TensorFlow
+
+</td>
+<td width="50%" valign="top">
+
+### 🛋️ [Virto Shop](https://yashwanth-site.vercel.app/static/media/virto.a28e5fe2e7b0085594f7.pdf)
+MERN e-commerce app with AR furniture preview using device cameras.
+**Stack:** MongoDB · Express · React · Node.js
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,flask,express,html,css,bootstrap,mysql,mongodb,git,postman&theme=dark" />
+📊 [Telecom Subscriber Trend Analysis (India, 2008–2022)](https://github.com/YashwanthProgrammer/GOVTDATASETANALAYSIS) — Python (Pandas/NumPy) + Tableau dashboards on 15 years of government telecom data
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Programmer&show_icons=true&theme=radical&hide_border=true&title_color=EF93C4&icon_color=F8BBD0&text_color=ffffff&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-Programmer&theme=radical&hide_border=true&background=0d1117&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yashwanth-Programmer&show_icons=true&theme=default&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=333333&bg_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanth-Programmer&theme=default&hide_border=true&background=ffffff&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-Programmer&theme=react-dark&hide_border=true&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4" width="97%" />
-
-</div>
-
-<!-- 🐍 contribution snake — populated by GitHub Action, see workflow below -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yashwanth-Programmer/Yashwanth-Programmer/output/github-contribution-grid-snake.svg" width="97%" />
-</div>
-
-<!--
-  Snake setup (add once):
-  1. Create .github/workflows/snake.yml
-  2. Use Platane/snk@v3 action to generate the snake SVG on a schedule
-  3. Push output to an "output" branch and reference it above
--->
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/y-yashwanth/">
-  <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/YOUR_X_HANDLE">
-  <img src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=black" />
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE">
-  <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://tiktok.com/@YOUR_TIKTOK_HANDLE">
-  <img src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE">
-  <img src="https://img.shields.io/badge/YouTube-F8BBD0?style=for-the-badge&logo=youtube&logoColor=black" />
-</a>
-<a href="mailto:yanamadalayash@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanth-Programmer&theme=minimal&hide_border=true&color=2DD4BF&line=2DD4BF&point=111827&area=true&area_color=2DD4BF" width="97%" />
 
 </div>
 
 <br/>
 
+## 🎓 Education
+
+**B.Tech, Computer Science & Engineering** — Malla Reddy University, Hyderabad *(2022 – Present, GPA 8.2)*
+**Intermediate (MPC)** — Narayana Junior College, Vijayawada *(2020 – 2022, GPA 8.0)*
+
+**Certifications:** Python Essentials (Coursera) · Full Stack Web Development (Udemy)
+
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=EF93C4&height=150&section=footer" width="100%" />
+<sub>Thanks for stopping by — always open to collaborating on interesting projects.</sub>
 </div>
